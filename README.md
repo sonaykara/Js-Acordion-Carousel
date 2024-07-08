@@ -20,7 +20,7 @@ Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir web sayfasıd
 
 ## Proje Gif
 
-![](/src/assets/ReduxToolkitTaskList.gif)
+![](/carousel.gif)
 <br> <br>
 
 <a name="baslarken"></a>
