@@ -1,4 +1,4 @@
-# Javascript Acordion Carausel
+# Javascript Acordion Carousel
 Bu proje, HTML, CSS ve JavaScript kullanılarak oluşturulmuş bir web sayfasıdır. Sayfa, başlıkların tıklanabilir olduğu bir akordion tarzında açıklamaların ve fotoğrafların görüntülendiği bir yapıya sahiptir.
 
 <br><br>
